@@ -4,3 +4,6 @@ C:\Users\Casc\Source\Repos\CS_ConsoleAssignment\Olympic_Soccer_Team\Olympic_Socc
 C:\Users\Casc\Source\Repos\CS_ConsoleAssignment\Olympic_Soccer_Team\Olympic_Soccer_Team\obj\Debug\Olympic_Soccer_Team.exe
 C:\Users\Casc\Source\Repos\CS_ConsoleAssignment\Olympic_Soccer_Team\Olympic_Soccer_Team\obj\Debug\Olympic_Soccer_Team.pdb
 C:\Users\Casc\Source\Repos\CS_ConsoleAssignment\Olympic_Soccer_Team\Olympic_Soccer_Team\obj\Debug\Olympic_Soccer_Team.csprojResolveAssemblyReference.cache
+C:\Users\Casc\Source\Repos\CS_ConsoleAssignment_Clone\Olympic_Soccer_Team\Olympic_Soccer_Team\bin\Debug\Olympic_Soccer_Team.exe.config
+C:\Users\Casc\Source\Repos\CS_ConsoleAssignment_Clone\Olympic_Soccer_Team\Olympic_Soccer_Team\obj\Debug\Olympic_Soccer_Team.exe
+C:\Users\Casc\Source\Repos\CS_ConsoleAssignment_Clone\Olympic_Soccer_Team\Olympic_Soccer_Team\obj\Debug\Olympic_Soccer_Team.pdb
