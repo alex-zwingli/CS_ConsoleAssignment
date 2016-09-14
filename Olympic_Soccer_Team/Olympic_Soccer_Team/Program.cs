@@ -1,7 +1,7 @@
 ﻿/*
  * AUTHOR:      Alex Zwingli
  * TEAM:        Core JAMB (1-5)
- * LAST UPDATE: 9/13/2016
+ * LAST UPDATE: 9/14/2016
  * 
  * PROGRAM:     Olympic Soccer Tournament
  * 
